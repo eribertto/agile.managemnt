@@ -84,8 +84,14 @@ so we've got Scrum, Kanban and XP. Let's explore one more. For those of you who
 took the earlier courses in this program, you already learned a little bit about
 this final methodology, called Lean. In the context of Lean 6 Sigma. Lean
 methodology consists of five principles that serve as a recipe for improving
-project outcomes. They are: define value, map value stream, create flow,
-establish pull and pursue perfection. Let's break these down.  Define value
+project outcomes. They are: 
+define value, 
+map value stream, 
+create flow,
+establish pull and 
+pursue perfection. 
+
+Let's break these down.  Define value
 means identifying and focusing on what the customer wants and including the
 customer in the process. A product's value is the sum of all the things the
 customer wants. Map value stream, means mapping out the process or stream,
