@@ -21,10 +21,13 @@ around your heads, let's do a quick recap on some of the key tenets of
 traditional Waterfall project management. Then we'll explore some of the ways
 you can blend the methods and approaches you've just learned about to best fit
 the needs of a specific product. As we learned in earlier courses, a Waterfall
-project life cycle is made up of the following phases: initiation, planning,
-executing and completing tasks, and closing out the project, and all of the
-tasks within each of these phases, like identifying goals and scope, scheduling,
-budgeting, and risk management. Agile project management includes most of the
+project life cycle is made up of the following phases: 
+initiation, 
+planning,
+executing and completing tasks, and 
+closing out the project, and 
+all of the tasks within each of these phases, like identifying goals and scope, scheduling, budgeting, and risk management. 
+Agile project management includes most of the
 same phases and tasks; they're just done in different ways. So even though these
 two approaches have clear differences, blending them might make a lot of sense,
 depending on the type of project or project team you're working with. Here are
