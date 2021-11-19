@@ -30,47 +30,50 @@ brighten up their home. By giving these users a name and a backstory, we can
 imagine them in our minds and we will design better products for them as a
 result. I really enjoyed writing user stories because it puts me in the shoes of
 my users. Each user story should meet six different criteria, represented by the
-acronym I.N.V.E.S.T., or invest. I, for independent: the story should be able to
-be started and finished by itself. It's not dependent on another story to finish
-it. The N stands for negotiable: there's room for negotiation and discussion
-about this item. The V is for valuable: this means that completing the user
-story has to deliver value. E is for estimable: our Definition of Done must be
-clear so that the team can give each user story an estimate. The S is for small:
-each user story needs to be able to fit within a planned Sprint. If that user
-story is too big, it should be broken down into smaller stories. Stories that
-are a low priority on the Backlog can stay big until they become a priority for
-an upcoming Sprint. Finally, the T is testable: a test can be written to check
-and make sure that it meets the acceptance criteria. While the Product Owner is
-the main person responsible for writing user stories, the team has a
-responsibility to give feedback on whether the user story is clear and fits the
-invest criteria before they invest any time into it. In addition to user
-stories, you need to know the term epic, which simply represents a group or
-collection of user stories. Some epics for Virtual Verde might be live plant
-delivery, office plant advice service, vendor management, or client data
-management. Let's come up with a sample user story for our Virtual Verde clients
-in the live plant delivery epic. As a Virtual Verde client, I would like to
-acquire a bonsai tree so that I can have a beautiful plant and I can meditate as
-I trim the branches. I thought of this one because I bought a bonsai tree for my
-12-year-old nephew last year. He did some research and learned that in Japan,
-pruning bonsai trees is a meditative practice. He's learning how to do that.
-With that sample user story, the Product Owner creates something called the
-acceptance criteria, which is essentially the checklist you will use to decide
-whether the user story is done. To have a completed user story, you must meet
-the acceptance criteria checklist. Here's an example of acceptance criteria for
-the bonsai tree user story. Users can: Browse for three different types of
-bonsai trees to purchase. Compare the three trees to know which is easiest and
-hardest to grow in their home. Maybe each plant has a beginner, intermediate,
-and advanced gardener notation next to it. Can purchase specific bonsai tree
-care packages like fertilizer, trimming shears, etc. Access online to a bonsai
-booklet sheet, as well as having a care booklet packaged with the tree. Can find
-a troubleshooting bonsai tree issues page on Virtual Verde's FAQ page. Sounds
-like an amazing story, doesn't it? It feels like a real thing that a user can
-interact with and get excited about. Each user story in the Backlog should be
-written this way. It's natural for items higher on the priority list to have
-more detail and fewer gray areas. By leaving these low-priority items vague,
-this saves the team time from working on items that may end up getting
-deprioritized down the road. Fantastic. Now you know how to explain user
-stories, the criteria for assessing user stories readiness for the team, and you
-can explain epics and user stories acceptance criteria. In the next video, we'll
-discuss Backlog refinement and explain relative effort estimation, T-shirt
-sizes, and story points. Meet you there.
+acronym I.N.V.E.S.T., or invest. 
+
+I, for independent: the story should be able to be started and finished by itself. It's not dependent on another story to finish it. 
+
+The N stands for negotiable: there's room for negotiation and discussion about this item. 
+
+The V is for valuable: this means that completing the user story has to deliver value. 
+
+E is for estimable: our Definition of Done must be clear so that the team can give each user story an estimate. 
+
+The S is for small: each user story needs to be able to fit within a planned Sprint. If that user story is too big, it should be broken down into smaller stories. Stories that are a low priority on the Backlog can stay big until they become a priority for an upcoming Sprint. Finally, 
+
+the T is testable: a test can be written to check and make sure that it meets the acceptance criteria. 
+
+While the Product Owner is the main person responsible for writing user stories,
+the team has a responsibility to give feedback on whether the user story is
+clear and fits the invest criteria before they invest any time into it. In
+addition to user stories, you need to know the term epic, which simply
+represents a group or collection of user stories. Some epics for Virtual Verde
+might be live plant delivery, office plant advice service, vendor management, or
+client data management. Let's come up with a sample user story for our Virtual
+Verde clients in the live plant delivery epic. As a Virtual Verde client, I
+would like to acquire a bonsai tree so that I can have a beautiful plant and I
+can meditate as I trim the branches. I thought of this one because I bought a
+bonsai tree for my 12-year-old nephew last year. He did some research and
+learned that in Japan, pruning bonsai trees is a meditative practice. He's
+learning how to do that.  With that sample user story, the Product Owner creates
+something called the acceptance criteria, which is essentially the checklist you
+will use to decide whether the user story is done. To have a completed user
+story, you must meet the acceptance criteria checklist. Here's an example of
+acceptance criteria for the bonsai tree user story. Users can: Browse for three
+different types of bonsai trees to purchase. Compare the three trees to know
+which is easiest and hardest to grow in their home. Maybe each plant has a
+beginner, intermediate, and advanced gardener notation next to it. Can purchase
+specific bonsai tree care packages like fertilizer, trimming shears, etc. Access
+online to a bonsai booklet sheet, as well as having a care booklet packaged with
+the tree. Can find a troubleshooting bonsai tree issues page on Virtual Verde's
+FAQ page. Sounds like an amazing story, doesn't it? It feels like a real thing
+that a user can interact with and get excited about. Each user story in the
+Backlog should be written this way. It's natural for items higher on the
+priority list to have more detail and fewer gray areas. By leaving these
+low-priority items vague, this saves the team time from working on items that
+may end up getting deprioritized down the road. Fantastic. Now you know how to
+explain user stories, the criteria for assessing user stories readiness for the
+team, and you can explain epics and user stories acceptance criteria. In the
+next video, we'll discuss Backlog refinement and explain relative effort
+estimation, T-shirt sizes, and story points. Meet you there.
