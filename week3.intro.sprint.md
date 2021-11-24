@@ -10,10 +10,13 @@ events revolve around the Sprint. The Scrum Guide technically defines five
 events: the Sprint itself, Sprint Planning, Daily Scrum, Sprint Review, and the
 Sprint Retrospective. Throughout this section of videos, I'll share what the
 recommended duration, or timebox, is for each of these events. Timeboxes are an
-important concept in Scrum. Some examples of benefits are that they create a
-sense of urgency which will drive prioritization, provide a window of focus
-which improves productivity, and they help the team develop a predictable rhythm
-to their work. A Sprint's timebox can range anywhere from one to four weeks.
+important concept in Scrum. Some examples of benefits are that they 
+
+create a sense of urgency which will drive prioritization, 
+provide a window of focus which improves productivity, 
+and they help the team develop a predictable rhythm to their work. 
+
+A Sprint's timebox can range anywhere from one to four weeks.
 How do you choose? Well, there are three considerations. First, think about what
 you expect the frequency of changes to be. How often do you think your
 requirements might change? If you expect your project to have new requests
