@@ -54,4 +54,5 @@ Key takeaway
 These three keys to influence make up the influencer change framework and will improve your chances of success with a change. Clarify measurable results, find vital behaviors, and leverage six sources of influence in tandem to lead an organization, team, or an individual to experience positive change. 
 
 To learn more, we suggest reading the book INFLUENCER: The New Science of Leading Change or the article The Influencer Change Framework–The Power to Change Anything, which summarizes the book. 
+https://sourcesofinsight.com/influencer-the-power-to-change-anything/
 
