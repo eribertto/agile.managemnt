@@ -18,6 +18,7 @@ Program Execution: Focus on working systems and business outcomes.
 Leadership: Model the values and principles of SAFe. 
 
 Read this article to learn more about the core values of SAfe.
+https://www.scaledagileframework.com/safe-core-values/#:~:text=The%20four%20Core%20Values%20of,participates%20in%20a%20SAFe%20portfolio
 
 Scrum of Scrums
 Scrum of Scrums is a technique for integrating the work of multiple, smaller Scrum teams working on the same project or solution. Coordination among teams is critical to ensuring the deliverables from each team can be integrated into one larger, cohesive deliverable. 
